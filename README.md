@@ -3,7 +3,7 @@
 <!-- ============================================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+Cenedy+System...;Access+Granted+✔;Laravel+Project+Manager;Senior+Backend+Engineer;AI+%26+Computer+Vision+Researcher;160%2B+Projects+Delivered" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+Cenedy+System...;Access+Granted+✔;Laravel+Project+Lead;Backend+Engineer;AI+%26+Computer+Vision+Researcher;40%2B+Projects+Delivered" />
 </h1>
 
 <p align="center">
@@ -26,7 +26,7 @@ Senior Backend Developer | Laravel Project Lead
 Bangladesh 🇧🇩
 
 > experience
-160+ Software Projects Delivered
+40+ Software Projects Delivered
 10+ Active Team Projects
 2 Solo-Run Systems
 
